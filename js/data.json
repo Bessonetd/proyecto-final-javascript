@@ -1,0 +1,11 @@
+[
+    {"nombre": "Traba puertas ", "precio": 100, "id": 1, "imagen": "./img/img1.jpg"},
+    {"nombre": "Cestos", "precio": 200, "id": 2, "imagen": "./img/img2.jpg"},
+    {"nombre": "Almohada", "precio": 300, "id": 3, "imagen": "./img/img3.jpg"},
+    {"nombre": "Kit Desmaquillante", "precio": 400, "id": 4, "imagen": "./img/img4.jpg"},
+    {"nombre": "Maceta", "precio": 500, "id": 5, "imagen": "./img/img5.jpg"},
+    {"nombre": "Chiflete Para La Puerta", "precio": 600, "id": 6, "imagen": "./img/img6.jpg"},
+    {"nombre": "Corazones", "precio": 700, "id": 7, "imagen": "./img/img7.jpg"},
+    {"nombre": "Kit Turbante Y Toalla", "precio": 800, "id": 8, "imagen": "./img/img8.jpg"},
+    {"nombre": "Caminos", "precio": 900, "id": 9, "imagen": "./img/img9.jpg"}
+]
